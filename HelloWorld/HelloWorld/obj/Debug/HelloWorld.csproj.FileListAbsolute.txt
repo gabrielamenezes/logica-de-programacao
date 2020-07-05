@@ -1,0 +1,7 @@
+C:\Users\55719\Documents\Lógica de Programação\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\55719\Documents\Lógica de Programação\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\55719\Documents\Lógica de Programação\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\55719\Documents\Lógica de Programação\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\55719\Documents\Lógica de Programação\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\55719\Documents\Lógica de Programação\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\55719\Documents\Lógica de Programação\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
