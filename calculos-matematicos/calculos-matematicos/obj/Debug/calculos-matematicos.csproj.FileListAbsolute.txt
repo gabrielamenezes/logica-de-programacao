@@ -1,0 +1,7 @@
+C:\Users\55719\Documents\Meus Projetos\logica-de-programacao\calculos-matematicos\calculos-matematicos\bin\Debug\calculos-matematicos.exe.config
+C:\Users\55719\Documents\Meus Projetos\logica-de-programacao\calculos-matematicos\calculos-matematicos\bin\Debug\calculos-matematicos.exe
+C:\Users\55719\Documents\Meus Projetos\logica-de-programacao\calculos-matematicos\calculos-matematicos\bin\Debug\calculos-matematicos.pdb
+C:\Users\55719\Documents\Meus Projetos\logica-de-programacao\calculos-matematicos\calculos-matematicos\obj\Debug\calculos-matematicos.csprojAssemblyReference.cache
+C:\Users\55719\Documents\Meus Projetos\logica-de-programacao\calculos-matematicos\calculos-matematicos\obj\Debug\calculos-matematicos.csproj.CoreCompileInputs.cache
+C:\Users\55719\Documents\Meus Projetos\logica-de-programacao\calculos-matematicos\calculos-matematicos\obj\Debug\calculos-matematicos.exe
+C:\Users\55719\Documents\Meus Projetos\logica-de-programacao\calculos-matematicos\calculos-matematicos\obj\Debug\calculos-matematicos.pdb
