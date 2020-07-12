@@ -19,8 +19,8 @@ namespace quadrado_e_cubo
             quadrado = valor * valor;
             cubo = valor * valor * valor;
 
-            Console.WriteLine("O número " + valor + "elevado ao quadrado é igual a: " + quadrado);
-            Console.WriteLine("O número " + valor + "elevado ao cubo é igual a: " + cubo);
+            Console.WriteLine("O número " + valor + " elevado ao quadrado é igual a: " + quadrado);
+            Console.WriteLine("O número " + valor + " elevado ao cubo é igual a: " + cubo);
             Console.ReadKey();
         }
     }
