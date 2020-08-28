@@ -10,25 +10,19 @@ namespace tempo_vida
     {
         static void Main(string[] args)
         {
-            int dia = 0;
-            int mes = 0;
-            int ano = 0;
-            int ano_atual = 2020;
-            int count_dia = 0;
-            int convert_year = 0;
-            int convert_month = 0;
-            //numero de dias que uma pessoa já viveu
-            Console.WriteLine("Dia do seu nascimento: ");
-            dia = int.Parse(Console.ReadLine());
-            Console.WriteLine("Mês: ");
-            mes = int.Parse(Console.ReadLine());
-            Console.WriteLine("Ano: ");
-            ano = int.Parse(Console.ReadLine());
+            string nome = "";
+            int dias = 360; //total de dias em 1 ano
+            int idade = 0;
+            int tempo = 0;
 
-            convert_year = (((2020 - ano) * 12) * 30);
-            convert_month = mes * 30;
-            count_dia = dia + convert_month + convert_year;
-            Console.WriteLine("Você viveu " + count_dia + " dias");
+            Console.Write("Informe seu nome: ");
+            nome = Console.ReadLine();
+            Console.Write("Informe sua idade: ");
+            idade = int.Parse(Console.ReadLine());
+
+            tempo = idade * dias;
+
+            Console.WriteLine("Seu nome é " + nome + " e você viveu até hoje " + tempo + " dias");
 
             Console.ReadKey();
 

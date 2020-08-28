@@ -22,12 +22,12 @@ namespace relatorio_corretor
 
             Console.WriteLine("CALCULANDO SUA COMISSÃO...");
 
-            if(venda > 50.000)
+            if(venda > 50000)
             {
                 Console.WriteLine("Sua comissão é de 12%");
                 comissao = ((venda * 12) / 100);
 
-            } else if (venda > 30.000 && venda < 50.000)
+            } else if (venda > 30000 && venda < 50000)
             {
                 Console.WriteLine("Sua comissão é de 9.5%");
                 comissao = ((venda * 9.5) / 100);
